@@ -1,26 +1,27 @@
 # Dependencies
+gems:             [jekyll-paginate]
 markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+#relative_permalinks: true
 
 # Setup
-title:            Angerhang
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Hang Yuan
+tagline:          'BLOGS'
+description:      CS@JACOBS Uni 2017
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
   name:           'Hang Yuan'
-  url:            https://twitter.com/mdo
+  url:            https://de.linkedin.com/pub/hang-calvin-yuan/56/464/ba4
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/angerhang
