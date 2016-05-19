@@ -1,4 +1,4 @@
-# Hang's Blog
+# Adi's Blog
 
 This a my personal blog using the Hyde theme developed by [Mark Otto](https://github.com/mdo)
 
