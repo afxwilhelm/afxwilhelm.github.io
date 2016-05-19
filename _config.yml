@@ -8,15 +8,15 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Hang Yuan
+title:            Adalbert FX Wilhelm
 tagline:          'BLOGS'
-description:      CS@JACOBS Uni 2017
-url:              http://hyde.getpoole.com
+description:      Statistics@Jacobs University
+url:              http://www.jacobs-university.de/awilhelm
 baseurl:          /
 
 author:
-  name:           'Hang Yuan'
-  url:            https://de.linkedin.com/pub/hang-calvin-yuan/56/464/ba4
+  name:           'Adalbert FX Wilhelm'
+  url:            http://www.jacobs-university.de/awilhelm
 
 paginate:         5
 
@@ -24,6 +24,6 @@ paginate:         5
 version:          
 
 github:
-  repo:           https://github.com/angerhang
+  repo:           https://github.com/afxwilhelm
 
 google_analytics: UA-55002898-4
