@@ -13,6 +13,8 @@ github page remote so that the github page knows which version of statsWithR to 
 
 I would highly recommend you to read [working with a git repository within another repository](http://stackoverflow.com/questions/1811730/how-do-i-work-with-a-git-repository-within-another-repository), if you are not sure about how the two-stage git process works.
 
+# Recommended workflow
+Since this site is built using [jekyll](https://jekyllrb.com). It is the best to have a local jekyll serve that enables you to run the website locally, otherwise if you need to debug, pushing every single change to the remote is not the best way to find out where the potential error might be and also it will pollute the commit history as well. Look [https://jekyllrb.com/docs/quickstart/] to have a quick-start on how to run jekyll site with localhost.
 
 ## License
 
